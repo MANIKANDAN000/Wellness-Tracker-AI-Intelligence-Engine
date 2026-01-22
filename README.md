@@ -124,7 +124,8 @@ To understand how the **Elite AI** works, follow this flow:
 
 ---
 
-🔄 Application Flow
+**🔄 Application Flow
+**
 
 Landing Page
 → Login / Register
@@ -134,7 +135,8 @@ Landing Page
 → OpenAI Response
 → Video + Image Rendering
 
-🧪 AI Logic Flow
+**🧪 AI Logic Flow
+**
 
 User Question
 → Fetch Wellness Data
@@ -175,8 +177,8 @@ Cloud Deployment (AWS / Render)
 
 Emotion-Aware AI Coaching
 
-👨‍💻 Developed By
+**👨‍💻 Developed By
 
 Manikandan Ravikumar
 MCA | Python Developer | AI Engineer
-Madurai, Tamil Nadu
+Madurai, Tamil Nadu**
